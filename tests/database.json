@@ -1,0 +1,6 @@
+{
+	"test": {
+		"driver": "sqlite3",
+		"filename": ":memory:"
+	}
+}
